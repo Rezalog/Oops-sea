@@ -1,4 +1,4 @@
-# Opensea clone coding - Oopssea
+# Opensea clone coding - Oops-Sea
 
 # 팀 소개
 
@@ -10,7 +10,7 @@
 
 # 프로젝트 소개
 
-대표 NFT Marketplace인 Opensea 를 clone coding 한다. Testnet 
+대표 NFT Marketplace인 Opensea 를 clone coding 한다. (Testnet-ropsten)
 
 
 ### 주요 기능 및 페이지
