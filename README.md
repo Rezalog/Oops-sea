@@ -25,10 +25,10 @@
 <img width="1000" alt="image" src="https://user-images.githubusercontent.com/70252834/173346655-71c76332-3f15-47b4-b845-95b3296abb6e.png">
 
 - Account-My collection : 연결한 지갑이 소유한 NFT 정보를 Web3 API를 이용하여 받아올 수 있다.
-- <img width="1000" alt="image" src="https://user-images.githubusercontent.com/70252834/173347011-2ea15516-41c1-4a40-9d39-05c4bfb11e04.png">
+<img width="1000" alt="image" src="https://user-images.githubusercontent.com/70252834/173347011-2ea15516-41c1-4a40-9d39-05c4bfb11e04.png">
 
 - Account-Transfer : Account 페이지에서 Web3 API를 이용하여 사용자의 지갑 주소로 내 NFT 를 전송할 수 있다.
-<img width="1292" alt="image" src="https://user-images.githubusercontent.com/70252834/173347340-50c52608-b219-496f-96f5-83234823149c.png">
+<img width="1000" alt="image" src="https://user-images.githubusercontent.com/70252834/173347340-50c52608-b219-496f-96f5-83234823149c.png">
 
 
 
